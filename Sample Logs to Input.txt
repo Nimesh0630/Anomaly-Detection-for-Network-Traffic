@@ -1,0 +1,7 @@
+# Non Malicious Packet Info
+# Adjacency Message (Syn)
+# 19717  >  6068 [ACK] Seq=1285 Ack=785 Win=3344 Len=0
+
+# Malicious Packet Info
+# 80  >  51451 [ACK] Seq=214260 Ack=712 Win=16128 Len=1460 [TCP segment of a reassembled PDU]
+# 80  >  49234 [PSH, ACK] Seq=500760 Ack=325 Win=64240 Len=1448 [TCP segment of a reassembled PDU]

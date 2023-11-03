@@ -1,0 +1,4 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"1","0.000000","fe80::205:5:5:5","ff02::1a","ICMPv6","105","RPL Control (DODAG Information Object)"
+"2","25.410000","fe80::214:14:14:14","ff02::1a","ICMPv6","97","RPL Control (DODAG Information Object)"
+"3","198.440000","fe80::20a:a:a:a","ff02::1a","ICMPv6","113","RPL Control (DODAG Information Object)"
